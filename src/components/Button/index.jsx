@@ -1,6 +1,6 @@
-import './style.css'
+import './Button.module.css'
 function Button() {
-  return <button>AAAAA</button>
+  return <button></button>
 }
 
 export default Button

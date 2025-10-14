@@ -1,4 +1,4 @@
-import './style.css'
+import './Calculator.module.css'
 
 import Button from '../Button'
 import Input from '../Input'
