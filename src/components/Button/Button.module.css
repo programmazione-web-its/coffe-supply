@@ -1,4 +1,4 @@
-button {
+.button {
   background-color: #e0d1c2;
   outline: none;
   border: none;
@@ -11,6 +11,6 @@ button {
   margin: 1rem auto;
 }
 
-button:hover {
+.button:hover {
   opacity: 0.6;
 }
